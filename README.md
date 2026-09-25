@@ -16,3 +16,23 @@ Each solution includes a short note on the **approach** and its **time / space c
 
 ## 🎯 Goal
 Solve problems consistently and be able to explain every solution — not just get it accepted.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
+<!---LeetCode Topics End-->
