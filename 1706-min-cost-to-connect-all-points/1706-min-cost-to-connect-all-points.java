@@ -5,7 +5,7 @@ class Solution {
         // minDist[i]：点 i 到“已连通的树”的最短距离
         int[] minDist = new int[n];
         Arrays.fill(minDist, Integer.MAX_VALUE);
-        minDist[0] = 0;                      // 从点 0 开始建树
+        minDist[0] = 0; // 从点 0 开始建树
 
         // inTree[i]：点 i 是否已经加入树
         boolean[] inTree = new boolean[n];
