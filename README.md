@@ -29,6 +29,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/saturnv30/leetcode/tree/main/2026-merge-triplets-to-form-target-triplet/) | undefined |
@@ -45,6 +46,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 ## Graph
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [2201-valid-arrangement-of-pairs](https://github.com/saturnv30/leetcode/tree/main/2201-valid-arrangement-of-pairs/) | undefined |
 ## String
 | Problem Name | Difficulty |
@@ -97,6 +100,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 ## 半欧拉图
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +122,24 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+## Dijkstra 算法
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 <!---LeetCode Topics End-->
