@@ -49,3 +49,4 @@ class Solution {
         return pathCount[r][c];
     }
 }
+// 每个格子只完整计算一次，每次看 4 个邻居，时间 O(mn)；记忆化数组 O(mn)，递归栈最坏是一条贯穿全图的递增链，也是 O(mn)，所以空间 O(mn)
