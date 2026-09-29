@@ -22,6 +22,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 ## Array
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
 ## 欧拉路径
 | Problem Name | Difficulty |
@@ -102,4 +104,16 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+## 括号序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 <!---LeetCode Topics End-->
