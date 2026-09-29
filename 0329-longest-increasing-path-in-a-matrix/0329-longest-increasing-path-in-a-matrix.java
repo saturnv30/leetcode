@@ -52,3 +52,4 @@ class Solution {
         return maxLength;
     }
 }
+// 时间 O(mn)：每个格子只完整计算一次，每次看 4 个邻居。空间 O(mn)：memo 数组占 mn，递归栈最坏深度也是 mn，也就是一条蛇形递增路径穿过所有格子的情况。
