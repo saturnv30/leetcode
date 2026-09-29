@@ -28,6 +28,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
@@ -52,6 +53,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
@@ -77,6 +79,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
@@ -122,6 +125,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## 括号序列
@@ -131,6 +135,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
@@ -145,6 +150,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Dijkstra 算法
@@ -154,10 +160,12 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -166,5 +174,6 @@ Solve problems consistently and be able to explain every solution — not just g
 ## 有向无环图
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 <!---LeetCode Topics End-->
