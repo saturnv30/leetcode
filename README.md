@@ -32,6 +32,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
@@ -132,6 +133,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## 括号序列
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
@@ -159,6 +162,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Dijkstra 算法
@@ -174,10 +178,12 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 ## 有向无环图
 | Problem Name | Difficulty |
@@ -188,4 +194,13 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
+## A* 搜索
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
+## Heuristic Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 <!---LeetCode Topics End-->
