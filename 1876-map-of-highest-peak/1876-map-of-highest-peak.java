@@ -8,6 +8,7 @@ class Solution {
         Queue<int[]> queue = new LinkedList<>();
 
         // 多源 BFS：所有水域同时作为起点，高度为 0
+        // 每个格子的高度上界是min（a,b）
         for (int r = 0; r < rows; r++) {
             for (int c = 0; c < cols; c++) {
                 if (g[r][c] == 1) {
