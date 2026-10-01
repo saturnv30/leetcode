@@ -37,6 +37,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
+| [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/saturnv30/leetcode/tree/main/2026-merge-triplets-to-form-target-triplet/) | undefined |
 | [2201-valid-arrangement-of-pairs](https://github.com/saturnv30/leetcode/tree/main/2201-valid-arrangement-of-pairs/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
@@ -151,6 +152,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
+| [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Minimax
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+| [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Dijkstra 算法
 | Problem Name | Difficulty |
