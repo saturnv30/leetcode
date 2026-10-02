@@ -31,6 +31,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
+| [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
@@ -44,6 +45,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
@@ -51,6 +53,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
@@ -221,4 +224,8 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/saturnv30/leetcode/tree/main/0344-reverse-string/) | undefined |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 <!---LeetCode Topics End-->
