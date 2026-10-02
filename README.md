@@ -28,6 +28,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0312-burst-balloons](https://github.com/saturnv30/leetcode/tree/main/0312-burst-balloons/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
@@ -139,6 +140,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0312-burst-balloons](https://github.com/saturnv30/leetcode/tree/main/0312-burst-balloons/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0343-integer-break](https://github.com/saturnv30/leetcode/tree/main/0343-integer-break/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
