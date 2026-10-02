@@ -99,6 +99,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/saturnv30/leetcode/tree/main/0168-excel-sheet-column-title/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0344-reverse-string](https://github.com/saturnv30/leetcode/tree/main/0344-reverse-string/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
@@ -214,4 +215,8 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/saturnv30/leetcode/tree/main/0168-excel-sheet-column-title/) | undefined |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/saturnv30/leetcode/tree/main/0344-reverse-string/) | undefined |
 <!---LeetCode Topics End-->
