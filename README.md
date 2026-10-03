@@ -28,6 +28,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/saturnv30/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | undefined |
 | [0312-burst-balloons](https://github.com/saturnv30/leetcode/tree/main/0312-burst-balloons/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
@@ -173,6 +174,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/saturnv30/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
@@ -230,4 +232,12 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/saturnv30/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | undefined |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/saturnv30/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | undefined |
 <!---LeetCode Topics End-->
