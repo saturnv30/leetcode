@@ -10,11 +10,12 @@ class NumMatrix {
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                // 上方矩形 + 左方矩形 - 重复加的左上角矩形 + 当前格子
-                prefix[i + 1][j + 1] = prefix[i][j + 1]
-                        + prefix[i + 1][j]
-                        - prefix[i][j]
-                        + matrix[i][j];
+                int up = prefix[i][j + 1]; // 上面的大方块
+                int left = prefix[i + 1][j]; // 左边的大方块
+                int upLeft = prefix[i][j]; // 左上角（被上和左各算了一次）
+                int cur = matrix[i][j]; // 当前格子
+
+                prefix[i + 1][j + 1] = up + left - upLeft + cur;
             }
         }
     }
@@ -36,3 +37,4 @@ class NumMatrix {
  * NumMatrix obj = new NumMatrix(matrix);
  * int param_1 = obj.sumRegion(row1,col1,row2,col2);
  */
+// 复杂度： 构造函数预处理前缀和需要 O(m·n) 时间和 O(m·n) 空间；之后每次 sumRegion 查询只做四次数组访问，时间 O(1)。 
