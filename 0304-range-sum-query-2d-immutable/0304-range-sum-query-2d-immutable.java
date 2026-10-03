@@ -20,11 +20,15 @@ class NumMatrix {
     }
 
     public int sumRegion(int row1, int col1, int row2, int col2) {
-        // 大矩形 - 上方多余部分 - 左方多余部分 + 被减了两次的左上角
-        return prefix[row2 + 1][col2 + 1]
-                - prefix[row1][col2 + 1]
-                - prefix[row2 + 1][col1]
-                + prefix[row1][col1];
+        // 先把四条边界起好名字
+        int top = row1, left = col1;
+        int bottom = row2 + 1, right = col2 + 1;
+
+        // 整块 - 上面一条 - 左边一条 + 左上角
+        return prefix[bottom][right]
+                - prefix[top][right]
+                - prefix[bottom][left]
+                + prefix[top][left];
     }
 }
 /**
