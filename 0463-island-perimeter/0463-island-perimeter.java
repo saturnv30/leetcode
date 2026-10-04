@@ -5,7 +5,7 @@ class Solution {
         int perimeter = 0;
 
         // 四个方向：上、下、左、右
-        int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        int[][] directions = { { -1, 0 }, { 1, 0 }, { 0, -1 }, { 0, 1 } };
 
         for (int r = 0; r < rows; r++) {
             for (int c = 0; c < cols; c++) {
@@ -20,7 +20,7 @@ class Solution {
                     int neighborCol = c + dir[1];
 
                     boolean outOfBounds = neighborRow < 0 || neighborRow >= rows
-                                       || neighborCol < 0 || neighborCol >= cols;
+                            || neighborCol < 0 || neighborCol >= cols;
 
                     // 邻居是边界或水，这条边就属于周长
                     if (outOfBounds || grid[neighborRow][neighborCol] == 0) {
