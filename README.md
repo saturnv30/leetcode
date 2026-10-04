@@ -32,6 +32,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0312-burst-balloons](https://github.com/saturnv30/leetcode/tree/main/0312-burst-balloons/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0463-island-perimeter](https://github.com/saturnv30/leetcode/tree/main/0463-island-perimeter/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
@@ -93,6 +94,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0463-island-perimeter](https://github.com/saturnv30/leetcode/tree/main/0463-island-perimeter/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
@@ -155,6 +157,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
+| [0463-island-perimeter](https://github.com/saturnv30/leetcode/tree/main/0463-island-perimeter/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
@@ -176,6 +179,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/saturnv30/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
+| [0463-island-perimeter](https://github.com/saturnv30/leetcode/tree/main/0463-island-perimeter/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
