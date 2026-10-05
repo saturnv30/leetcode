@@ -43,6 +43,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
 | [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
+| [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
@@ -55,6 +56,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
+| [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
+| [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
 ## 欧拉路径
 | Problem Name | Difficulty |
 | ------- | ------- |
