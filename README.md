@@ -23,6 +23,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+| [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/saturnv30/leetcode/tree/main/2026-merge-triplets-to-form-target-triplet/) | undefined |
 ## Array
@@ -40,6 +41,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
+| [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
