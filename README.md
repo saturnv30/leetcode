@@ -42,6 +42,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
 | [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
+| [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
@@ -190,6 +191,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0695-max-area-of-island](https://github.com/saturnv30/leetcode/tree/main/0695-max-area-of-island/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+| [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Dijkstra 算法
@@ -251,4 +253,8 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/saturnv30/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | undefined |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 <!---LeetCode Topics End-->
