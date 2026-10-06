@@ -37,6 +37,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0463-island-perimeter](https://github.com/saturnv30/leetcode/tree/main/0463-island-perimeter/) | undefined |
 | [0529-minesweeper](https://github.com/saturnv30/leetcode/tree/main/0529-minesweeper/) | undefined |
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
+| [0682-baseball-game](https://github.com/saturnv30/leetcode/tree/main/0682-baseball-game/) | undefined |
 | [0695-max-area-of-island](https://github.com/saturnv30/leetcode/tree/main/0695-max-area-of-island/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
@@ -151,6 +152,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+| [0682-baseball-game](https://github.com/saturnv30/leetcode/tree/main/0682-baseball-game/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,5 +264,6 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/saturnv30/leetcode/tree/main/0682-baseball-game/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 <!---LeetCode Topics End-->
