@@ -49,6 +49,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/saturnv30/leetcode/tree/main/2026-merge-triplets-to-form-target-triplet/) | undefined |
 | [2058-concatenation-of-array](https://github.com/saturnv30/leetcode/tree/main/2058-concatenation-of-array/) | undefined |
 | [2201-valid-arrangement-of-pairs](https://github.com/saturnv30/leetcode/tree/main/2201-valid-arrangement-of-pairs/) | undefined |
@@ -222,6 +223,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/saturnv30/leetcode/tree/main/0813-all-paths-from-source-to-target/) | undefined |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 ## 有向无环图
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/saturnv30/leetcode/tree/main/0168-excel-sheet-column-title/) | undefined |
 | [0343-integer-break](https://github.com/saturnv30/leetcode/tree/main/0343-integer-break/) | undefined |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +257,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +272,12 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0682-baseball-game](https://github.com/saturnv30/leetcode/tree/main/0682-baseball-game/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 | [2058-concatenation-of-array](https://github.com/saturnv30/leetcode/tree/main/2058-concatenation-of-array/) | undefined |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 <!---LeetCode Topics End-->
