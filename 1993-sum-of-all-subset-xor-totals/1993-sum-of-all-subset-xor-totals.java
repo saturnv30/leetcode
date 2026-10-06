@@ -8,7 +8,9 @@ class Solution {
      * 返回：在已选元素异或值为 currXor 的前提下，
      *      对 nums[index..] 做所有「选/不选」组合后，所有子集异或值之和
      */
-     // currXor 是「到目前为止已选元素的异或值」，
+     // 返回以当前节点为根的这棵子树里，所有叶子的值之和
+    // currXor 是「到目前为止已选元素的异或值」，
+    // index 是递归树的「层数」，第几层就在决定第几个元素
     private int dfs(int[] nums, int index, int currXor) {
         // 所有元素都决定完了，得到一个完整子集，返回它的异或值
         if (index == nums.length) {
