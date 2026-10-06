@@ -50,6 +50,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/saturnv30/leetcode/tree/main/2026-merge-triplets-to-form-target-triplet/) | undefined |
+| [2058-concatenation-of-array](https://github.com/saturnv30/leetcode/tree/main/2058-concatenation-of-array/) | undefined |
 | [2201-valid-arrangement-of-pairs](https://github.com/saturnv30/leetcode/tree/main/2201-valid-arrangement-of-pairs/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Hash Table
@@ -266,4 +267,5 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/saturnv30/leetcode/tree/main/0682-baseball-game/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
+| [2058-concatenation-of-array](https://github.com/saturnv30/leetcode/tree/main/2058-concatenation-of-array/) | undefined |
 <!---LeetCode Topics End-->
