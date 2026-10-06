@@ -123,6 +123,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0680-valid-palindrome-ii](https://github.com/saturnv30/leetcode/tree/main/0680-valid-palindrome-ii/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0754-cracking-the-safe](https://github.com/saturnv30/leetcode/tree/main/0754-cracking-the-safe/) | undefined |
+| [0886-score-of-parentheses](https://github.com/saturnv30/leetcode/tree/main/0886-score-of-parentheses/) | undefined |
 | [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
 ## 欧拉路径
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0682-baseball-game](https://github.com/saturnv30/leetcode/tree/main/0682-baseball-game/) | undefined |
+| [0886-score-of-parentheses](https://github.com/saturnv30/leetcode/tree/main/0886-score-of-parentheses/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
+| [0886-score-of-parentheses](https://github.com/saturnv30/leetcode/tree/main/0886-score-of-parentheses/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
