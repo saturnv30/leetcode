@@ -30,3 +30,5 @@ class Solution {
         return true;
     }
 }
+// 复杂度： 时间 O(n)，每个字符最多被访问常数次；空间 O(1)，只用了两个指针。
+// two pts + 贪心
