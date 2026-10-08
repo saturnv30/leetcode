@@ -46,6 +46,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 | [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
@@ -167,6 +168,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0516-longest-palindromic-subsequence](https://github.com/saturnv30/leetcode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## 括号序列
 | Problem Name | Difficulty |
@@ -285,4 +287,12 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
+## 多边形
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
+## 三角剖分
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 <!---LeetCode Topics End-->
