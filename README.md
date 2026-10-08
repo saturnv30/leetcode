@@ -119,6 +119,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0168-excel-sheet-column-title](https://github.com/saturnv30/leetcode/tree/main/0168-excel-sheet-column-title/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0344-reverse-string](https://github.com/saturnv30/leetcode/tree/main/0344-reverse-string/) | undefined |
+| [0516-longest-palindromic-subsequence](https://github.com/saturnv30/leetcode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0680-valid-palindrome-ii](https://github.com/saturnv30/leetcode/tree/main/0680-valid-palindrome-ii/) | undefined |
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
@@ -163,6 +164,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0312-burst-balloons](https://github.com/saturnv30/leetcode/tree/main/0312-burst-balloons/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0343-integer-break](https://github.com/saturnv30/leetcode/tree/main/0343-integer-break/) | undefined |
+| [0516-longest-palindromic-subsequence](https://github.com/saturnv30/leetcode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
