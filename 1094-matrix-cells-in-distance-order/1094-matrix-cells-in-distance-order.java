@@ -12,7 +12,7 @@ class Solution {
         // 遍历每个格子，计算曼哈顿距离，放入对应的桶
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
-                int dist = Math.abs(row - rCenter) + Math.abs(col - cCenter);
+                int dist = Math.abs(row - rCenter) + Math.abs(col - cCenter); // 分桶/分层
                 buckets.get(dist).add(new int[]{row, col});
             }
         }
