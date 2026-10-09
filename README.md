@@ -46,6 +46,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
 | [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
+| [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
@@ -68,6 +69,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
+| [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
@@ -210,6 +212,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 | [0898-transpose-matrix](https://github.com/saturnv30/leetcode/tree/main/0898-transpose-matrix/) | undefined |
+| [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/saturnv30/leetcode/tree/main/2409-number-of-increasing-paths-in-a-grid/) | undefined |
 ## Dijkstra 算法
@@ -257,6 +260,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0168-excel-sheet-column-title](https://github.com/saturnv30/leetcode/tree/main/0168-excel-sheet-column-title/) | undefined |
 | [0343-integer-break](https://github.com/saturnv30/leetcode/tree/main/0343-integer-break/) | undefined |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saturnv30/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | undefined |
+| [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -302,4 +306,8 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/saturnv30/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | undefined |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
 <!---LeetCode Topics End-->
