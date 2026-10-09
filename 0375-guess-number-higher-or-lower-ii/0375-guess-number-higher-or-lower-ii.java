@@ -33,5 +33,5 @@ class Solution {
         return best;
     }
 }
-// 区间dp
-//
+// 区间dp： 状态是一个区间 [left, right]，大区间的结果由它切分出的小区间推出来。决策思想是 minimax（极小化极大）。minimax：对手（最坏情况）在左右两侧取 max，我们在所有猜法里取 min。，转移时内层取 max 表示最坏情况，外层取 min 表示最优策略。
+// 一共 O(n²) 个区间，每个区间里的 for 循环是 O(n)，所以时间复杂度是 O(n³)；空间上 memo 占 O(n²)，递归栈深度 O(n)。
