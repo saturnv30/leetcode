@@ -165,6 +165,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0312-burst-balloons](https://github.com/saturnv30/leetcode/tree/main/0312-burst-balloons/) | undefined |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saturnv30/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | undefined |
 | [0343-integer-break](https://github.com/saturnv30/leetcode/tree/main/0343-integer-break/) | undefined |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saturnv30/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/saturnv30/leetcode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0787-sliding-puzzle](https://github.com/saturnv30/leetcode/tree/main/0787-sliding-puzzle/) | undefined |
@@ -192,6 +193,7 @@ Solve problems consistently and be able to explain every solution — not just g
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saturnv30/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/saturnv30/leetcode/tree/main/0168-excel-sheet-column-title/) | undefined |
 | [0343-integer-break](https://github.com/saturnv30/leetcode/tree/main/0343-integer-break/) | undefined |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saturnv30/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | undefined |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saturnv30/leetcode/tree/main/1993-sum-of-all-subset-xor-totals/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -295,4 +298,8 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/saturnv30/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | undefined |
 <!---LeetCode Topics End-->
