@@ -25,6 +25,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0678-valid-parenthesis-string](https://github.com/saturnv30/leetcode/tree/main/0678-valid-parenthesis-string/) | undefined |
 | [0680-valid-palindrome-ii](https://github.com/saturnv30/leetcode/tree/main/0680-valid-palindrome-ii/) | undefined |
 | [0890-lemonade-change](https://github.com/saturnv30/leetcode/tree/main/0890-lemonade-change/) | undefined |
+| [1140-distant-barcodes](https://github.com/saturnv30/leetcode/tree/main/1140-distant-barcodes/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/saturnv30/leetcode/tree/main/2026-merge-triplets-to-form-target-triplet/) | undefined |
 ## Array
@@ -48,6 +49,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
 | [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saturnv30/leetcode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
+| [1140-distant-barcodes](https://github.com/saturnv30/leetcode/tree/main/1140-distant-barcodes/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 | [1706-min-cost-to-connect-all-points](https://github.com/saturnv30/leetcode/tree/main/1706-min-cost-to-connect-all-points/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/saturnv30/leetcode/tree/main/1876-map-of-highest-peak/) | undefined |
@@ -63,6 +65,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0753-open-the-lock](https://github.com/saturnv30/leetcode/tree/main/0753-open-the-lock/) | undefined |
 | [0833-bus-routes](https://github.com/saturnv30/leetcode/tree/main/0833-bus-routes/) | undefined |
 | [0990-verifying-an-alien-dictionary](https://github.com/saturnv30/leetcode/tree/main/0990-verifying-an-alien-dictionary/) | undefined |
+| [1140-distant-barcodes](https://github.com/saturnv30/leetcode/tree/main/1140-distant-barcodes/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -70,6 +73,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0645-set-mismatch](https://github.com/saturnv30/leetcode/tree/main/0645-set-mismatch/) | undefined |
 | [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
+| [1140-distant-barcodes](https://github.com/saturnv30/leetcode/tree/main/1140-distant-barcodes/) | undefined |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/saturnv30/leetcode/tree/main/1422-divide-array-in-sets-of-k-consecutive-numbers/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
@@ -146,6 +150,7 @@ Solve problems consistently and be able to explain every solution — not just g
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/saturnv30/leetcode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0794-swim-in-rising-water](https://github.com/saturnv30/leetcode/tree/main/0794-swim-in-rising-water/) | undefined |
+| [1140-distant-barcodes](https://github.com/saturnv30/leetcode/tree/main/1140-distant-barcodes/) | undefined |
 ## 半欧拉图
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,4 +315,8 @@ Solve problems consistently and be able to explain every solution — not just g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-matrix-cells-in-distance-order](https://github.com/saturnv30/leetcode/tree/main/1094-matrix-cells-in-distance-order/) | undefined |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-distant-barcodes](https://github.com/saturnv30/leetcode/tree/main/1140-distant-barcodes/) | undefined |
 <!---LeetCode Topics End-->
